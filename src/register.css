@@ -1,0 +1,25 @@
+#container
+{
+    border: 2px solid white;
+    border-radius: 5px;
+    height: 460px;
+    width:700px;
+    margin:50px auto;
+    display: flex;
+    box-shadow: 0px 0px 20px black;
+}
+#img
+{
+    width: 50%;
+    
+}
+#reg
+{
+    width: 50%;
+    text-align: center;
+}
+#fl
+{
+    display: flex;
+}
+

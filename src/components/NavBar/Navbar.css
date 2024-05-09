@@ -1,0 +1,32 @@
+.navbar
+{
+    border: 2px solid black;
+    height: 70px;
+    display: flex;
+    background-color: black;
+    flex-direction: row;
+}
+.navtitle
+{
+    width: 40%;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.l1{
+    text-decoration: none;
+    margin-right:50px ;
+    color: white;
+    
+}
+.menus
+{
+    width: 60%;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    
+    
+}

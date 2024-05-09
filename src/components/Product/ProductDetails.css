@@ -1,0 +1,17 @@
+.prod{
+    display: flex;
+    width:800px;
+    margin: 50px auto;
+    box-shadow: 0 0 10px green;
+
+}
+.img1{
+    height:80%;
+    margin:15px;
+    width:50%;
+}
+
+.contentContainer{
+    width:50%;
+    margin:15px;
+}
